@@ -33,7 +33,7 @@ We offer tailored solutions across a range of modern technologies:
 
 - **☁️ Infrastructure and Cloud Engineering**  
   Design and deploy secure, scalable, and cloud-native architectures.  
-  [Learn More →](https://www.niyamit.com/assets/niyam-cloud.pdf)
+  [Learn More →](https://www.niyamit.com/cloud-engineering)
 
 - **🗺 Geographic Information Systems (GIS)**  
   Visualize mission-critical spatial data and location intelligence.  
