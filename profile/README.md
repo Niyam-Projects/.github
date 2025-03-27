@@ -16,7 +16,7 @@
 
 ## 📖 About Us
 
-Founded in 2007, **Niyam IT** delivers innovative, mission-ready technology solutions for U.S. federal agencies. The name “Niyam” means *principle*, symbolizing our commitment to order, structure, and excellence.
+Founded in 2007, **Niyam IT** delivers innovative, mission-ready technology solutions for U.S. federal agencies. Our name says it all: **_'Niyam'_** means orderly, systematic, grounded by rules. That's a huge part of who we are.
 
 We specialize in solving complex challenges in national security, disaster response, law enforcement, public health, and international development—using modern, secure, and scalable technologies.  
 [More About Us →](https://www.niyamit.com/about-us)
